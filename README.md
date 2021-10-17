@@ -2,7 +2,9 @@
 PhosVarDeep
 =========
 PhosVarDeep: a deep-learning model for phospho-variant prediction using sequence information
-Developer: 
+
+Developer
+=========
 Liu Xia from Health Informatics Lab, School of Information Science and Technology, University of Science and Technology of China
 
 Requirement
